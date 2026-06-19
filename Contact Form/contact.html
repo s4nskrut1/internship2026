@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact | ATLAS Studio</title>
+  <meta name="description" content="Contact ATLAS Studio for architecture and interior design commissions.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body data-page="contact">
+  <div class="site-shell">
+    <header class="site-header">
+      <div class="brand">
+        <a href="index.html" aria-label="ATLAS Studio home">
+          <span>ATLAS</span>
+          <span>Studio</span>
+        </a>
+      </div>
+      <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="site-nav" aria-label="Open navigation">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+      <nav class="site-nav" id="site-nav">
+        <a href="index.html" data-page-link="home">Home</a>
+        <a href="about.html" data-page-link="about">About</a>
+        <a href="index.html#projects">Projects</a>
+        <a href="index.html#services">Services</a>
+        <a href="contact.html" data-page-link="contact">Contact</a>
+        <a href="submissions.html" data-page-link="submissions">Submissions</a>
+      </nav>
+    </header>
+
+    <main>
+      <section class="contact-hero">
+        <div class="contact-hero-copy">
+          <p class="eyebrow">Contact</p>
+          <h1>Start a project.</h1>
+          <p>
+            Share the project type, location, and timeline. New enquiries are reviewed each week.
+          </p>
+        </div>
+      </section>
+
+      <section class="section contact-layout">
+        <div class="contact-form-card">
+          <p class="eyebrow">Send a message</p>
+          <form class="contact-form" data-contact-form novalidate>
+            <label>
+              <span>Name</span>
+              <input type="text" name="name" placeholder="Your name" aria-describedby="name-error">
+              <small class="field-message" id="name-error" data-error-for="name" aria-live="polite"></small>
+            </label>
+            <label>
+              <span>Email</span>
+              <input type="email" name="email" placeholder="Email address" aria-describedby="email-error">
+              <small class="field-message" id="email-error" data-error-for="email" aria-live="polite"></small>
+            </label>
+            <label>
+              <span>Message</span>
+              <textarea name="message" rows="6" placeholder="Project brief" aria-describedby="message-error"></textarea>
+              <small class="field-message" id="message-error" data-error-for="message" aria-live="polite"></small>
+            </label>
+            <button class="button-primary" type="submit">Send message</button>
+          </form>
+          <p class="form-note">All fields are required before submission.</p>
+          <p class="form-status" data-form-status aria-live="polite"></p>
+        </div>
+
+        <aside class="contact-details-card">
+          <p class="eyebrow">Studio details</p>
+          <div class="detail-list">
+            <div class="detail-item">
+              <h3>Address</h3>
+              <p>17 Residency Road<br>Bengaluru 560025</p>
+            </div>
+            <div class="detail-item">
+              <h3>Email</h3>
+              <p><a href="mailto:info@atlasstudio.in">info@atlasstudio.in</a></p>
+            </div>
+            <div class="detail-item">
+              <h3>Phone</h3>
+              <p><a href="tel:+919876543210">+91 98765 432XX</a></p>
+            </div>
+            <div class="detail-item">
+              <h3>Hours</h3>
+              <p>Mon - Sat<br>10:00 AM - 6:00 PM</p>
+            </div>
+          </div>
+        </aside>
+      </section>
+
+    </main>
+
+    <footer class="site-footer compact-footer">
+      <div class="footer-main">
+        <div>
+          <div class="brand footer-brand">
+            <a href="index.html">
+              <span>ATLAS</span>
+              <span>Studio</span>
+            </a>
+          </div>
+          <p class="footer-note">
+            Based in Bengaluru and available for projects in other cities by appointment.
+          </p>
+        </div>
+        <div>
+          <p class="footer-label">Pages</p>
+          <div class="footer-links">
+            <a href="index.html">Home</a>
+            <a href="about.html">About</a>
+            <a href="contact.html">Contact</a>
+            <a href="submissions.html">Submissions</a>
+          </div>
+        </div>
+        <div>
+          <p class="footer-label">Follow</p>
+          <div class="footer-links">
+            <a href="https://instagram.com" target="_blank" rel="noreferrer">Instagram</a>
+            <a href="https://linkedin.com" target="_blank" rel="noreferrer">LinkedIn</a>
+          </div>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <span>&copy; <span class="year"></span> ATLAS Studio</span>
+      </div>
+    </footer>
+  </div>
+
+  <script src="assets/js/script.js"></script>
+</body>
+</html>
