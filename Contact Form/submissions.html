@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Submissions | ATLAS Studio</title>
+  <meta name="description" content="View saved contact form submissions for ATLAS Studio.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body data-page="submissions">
+  <div class="site-shell">
+    <header class="site-header">
+      <div class="brand">
+        <a href="index.html" aria-label="ATLAS Studio home">
+          <span>ATLAS</span>
+          <span>Studio</span>
+        </a>
+      </div>
+      <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="site-nav" aria-label="Open navigation">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+      <nav class="site-nav" id="site-nav">
+        <a href="index.html" data-page-link="home">Home</a>
+        <a href="about.html" data-page-link="about">About</a>
+        <a href="index.html#projects">Projects</a>
+        <a href="index.html#services">Services</a>
+        <a href="contact.html" data-page-link="contact">Contact</a>
+        <a href="submissions.html" data-page-link="submissions">Submissions</a>
+      </nav>
+    </header>
+
+    <main>
+      <section class="page-intro submissions-intro">
+        <div>
+          <p class="eyebrow">Saved enquiries</p>
+          <h1>Submissions.</h1>
+        </div>
+        <p>
+          Review submitted project enquiries stored locally in this browser.
+        </p>
+      </section>
+
+      <section class="section submissions-section">
+        <div class="submissions-toolbar">
+          <div>
+            <p class="eyebrow">Local records</p>
+            <h2>Contact messages.</h2>
+          </div>
+          <button class="button-secondary" type="button" data-clear-submissions>Clear all</button>
+        </div>
+
+        <div class="empty-state" data-empty-state hidden>
+          No submissions available.
+        </div>
+
+        <div class="submissions-grid" data-submissions-list></div>
+      </section>
+
+      <div class="dialog-backdrop" data-confirm-dialog hidden>
+        <div class="dialog-card" role="dialog" aria-modal="true" aria-labelledby="dialog-title">
+          <p class="eyebrow">Confirm action</p>
+          <h2 id="dialog-title" data-dialog-title>Are you sure?</h2>
+          <p class="dialog-message" data-dialog-message></p>
+          <div class="dialog-actions">
+            <button class="button-secondary" type="button" data-dialog-cancel>Cancel</button>
+            <button class="button-danger" type="button" data-dialog-confirm>Confirm</button>
+          </div>
+        </div>
+      </div>
+    </main>
+
+    <footer class="site-footer compact-footer">
+      <div class="footer-main">
+        <div>
+          <div class="brand footer-brand">
+            <a href="index.html">
+              <span>ATLAS</span>
+              <span>Studio</span>
+            </a>
+          </div>
+          <p class="footer-note">
+            ATLAS Studio enquiries saved locally for review and follow-up.
+          </p>
+        </div>
+        <div>
+          <p class="footer-label">Pages</p>
+          <div class="footer-links">
+            <a href="index.html">Home</a>
+            <a href="about.html">About</a>
+            <a href="contact.html">Contact</a>
+            <a href="submissions.html">Submissions</a>
+          </div>
+        </div>
+        <div>
+          <p class="footer-label">Email</p>
+          <div class="footer-links">
+            <a href="mailto:info@atlasstudio.in">info@atlasstudio.in</a>
+          </div>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <span>&copy; <span class="year"></span> ATLAS Studio</span>
+        <div class="footer-socials">
+          <a href="https://instagram.com" target="_blank" rel="noreferrer">Instagram</a>
+          <a href="https://linkedin.com" target="_blank" rel="noreferrer">LinkedIn</a>
+        </div>
+      </div>
+    </footer>
+  </div>
+
+  <script src="assets/js/script.js"></script>
+</body>
+</html>
