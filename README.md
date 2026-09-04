@@ -1,50 +1,38 @@
-# Frontend Projects Collection
+# Frontend Projects
 
-A collection of frontend projects built while practicing **HTML, CSS, and JavaScript** — with a focus on responsive layouts, interaction, accessibility, and visual design.
+A small collection of frontend builds exploring layout, interaction, responsive design, and visual direction with HTML, CSS, and JavaScript.
 
-## ✨ Projects
+## Projects
 
-### 01 — AETHER Landing Page
-A cinematic, responsive product landing page for a fictional premium sneaker brand.
+### AETHER — Product Landing Page
+A fictional premium sneaker brand presented through a dark, editorial-style landing page.
 
-**Highlights:** responsive navigation, dropdown menu, animated/reveal interactions, product showcase, campaign section, and responsive layouts.
+**Built with:** HTML · CSS · JavaScript
 
-### 02 — ATLAS Studio
-A multi-page architecture/interior-design website concept for a fictional studio.
+Responsive navigation, dropdown interactions, product sections, campaign content, and reveal animations.
 
-**Highlights:** multi-page navigation, editorial layout, project gallery, services section, responsive design, and semantic HTML.
+### ATLAS Studio — Multi-page Website
+A fictional architecture and interior-design studio website with a restrained editorial layout.
 
-### 03 — Contact Form
-A responsive contact-form website with multiple pages and client-side JavaScript interactions.
+**Built with:** HTML · CSS · JavaScript
 
-**Highlights:** form UI, validation/interactions, responsive styling, and supporting pages.
+Multi-page navigation, project gallery, services, responsive layouts, and semantic markup.
 
-## 🛠️ Tech Stack
+### Contact Form
+A responsive contact-focused website built to practice form interfaces and client-side interactions.
 
-- HTML5
-- CSS3
-- JavaScript
-- Responsive Web Design
-- Font Awesome
-- Google Fonts
+**Built with:** HTML · CSS · JavaScript
 
-## 🎯 What I Practiced
+Form UI, validation/interactions, responsive styling, and supporting pages.
 
-- Building responsive interfaces from scratch
-- Structuring multi-page websites
-- Creating reusable visual patterns with CSS
-- Adding interactive behaviour with JavaScript
-- Improving semantic HTML and accessibility
-- Designing polished landing pages with a strong visual hierarchy
+## What this repo is about
 
-## 📁 Repository Structure
+These projects are practice builds, but each one focuses on a different part of frontend development: visual hierarchy, responsive structure, interaction, and translating an idea into a working interface.
 
-```text
-internship2026/
-├── Contact Form/
-├── Multi Page Website/
-├── Responsive Landing Page/
-└── README.md
-```
+## Stack
 
-> These are learning/portfolio projects and the brands shown in the demos are fictional concepts.
+HTML5 · CSS3 · JavaScript · Responsive Web Design
+
+---
+
+*The brands and content used in the projects are fictional concepts.*
