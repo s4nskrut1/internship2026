@@ -1,38 +1,72 @@
+<div align="center">
+
 # Frontend Projects
 
-A small collection of frontend builds exploring layout, interaction, responsive design, and visual direction with HTML, CSS, and JavaScript.
+**interfaces · interaction · visual design**
 
-## Projects
+A collection of frontend builds made while exploring how design ideas translate into responsive, working interfaces.
 
-### AETHER — Product Landing Page
-A fictional premium sneaker brand presented through a dark, editorial-style landing page.
+[ AETHER ](#aether) · [ ATLAS STUDIO ](#atlas-studio) · [ CONTACT FORM ](#contact-form)
 
-**Built with:** HTML · CSS · JavaScript
-
-Responsive navigation, dropdown interactions, product sections, campaign content, and reveal animations.
-
-### ATLAS Studio — Multi-page Website
-A fictional architecture and interior-design studio website with a restrained editorial layout.
-
-**Built with:** HTML · CSS · JavaScript
-
-Multi-page navigation, project gallery, services, responsive layouts, and semantic markup.
-
-### Contact Form
-A responsive contact-focused website built to practice form interfaces and client-side interactions.
-
-**Built with:** HTML · CSS · JavaScript
-
-Form UI, validation/interactions, responsive styling, and supporting pages.
-
-## What this repo is about
-
-These projects are practice builds, but each one focuses on a different part of frontend development: visual hierarchy, responsive structure, interaction, and translating an idea into a working interface.
-
-## Stack
-
-HTML5 · CSS3 · JavaScript · Responsive Web Design
+</div>
 
 ---
 
-*The brands and content used in the projects are fictional concepts.*
+## AETHER
+
+### Product Landing Page
+
+A fictional premium sneaker concept with a dark, editorial direction.
+
+<img src="Responsive Landing Page/assets/aether-hero.png" alt="AETHER landing page preview" width="100%">
+
+**HTML · CSS · JavaScript**
+
+Responsive navigation, dropdown interactions, product sections, campaign content, and subtle reveal effects.
+
+---
+
+## ATLAS Studio
+
+### Architecture & Interior Design — Multi-page Website
+
+A fictional studio site built around a restrained, image-led layout.
+
+<p align="center">
+  <img src="Multi Page Website/assets/hero-image.png" alt="ATLAS Studio homepage" width="48%">
+  <img src="Multi Page Website/assets/architecture.png" alt="ATLAS Studio architecture project" width="48%">
+</p>
+
+**HTML · CSS · JavaScript**
+
+Multi-page navigation, project presentation, services, responsive layouts, and semantic markup.
+
+---
+
+## Contact Form
+
+A responsive site focused on form interfaces and client-side interaction.
+
+**HTML · CSS · JavaScript**
+
+Form UI, validation, responsive styling, and supporting pages.
+
+---
+
+## A little bit of the process
+
+These aren't meant to be production products. They're practice builds — different ideas, different layouts, and different problems to solve.
+
+The common thread is simple: **make it work, then make it feel right.**
+
+### Stack
+
+`HTML5` `CSS3` `JavaScript` `Responsive Design`
+
+---
+
+<div align="center">
+
+*The brands and content used in these projects are fictional concepts.*
+
+</div>
