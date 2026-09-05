@@ -6,11 +6,11 @@
 
 A responsive contact experience built around **form UI, validation and client-side interaction**.
 
-<img src="assets/contact.png" alt="Contact page visual" width="92%">
+<img src="../assets/Screenshot%20(489).png" alt="Contact form interface" width="92%">
 
 <br>
 
-**HTML · CSS · JavaScript**
+<img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML CSS JavaScript" height="42">
 
 </div>
 
@@ -33,13 +33,20 @@ This project focuses on the practical side of frontend interfaces: making a form
 ## Preview
 
 <p align="center">
-  <img src="assets/contact.png" alt="Contact interface" width="49%">
-  <img src="assets/hero-image.png" alt="Supporting project visual" width="49%">
+  <img src="../assets/Screenshot%20(489).png" alt="Contact form" width="49%">
+  <img src="../assets/Screenshot%20(490).png" alt="Contact form state" width="49%">
+</p>
+
+<p align="center">
+  <img src="../assets/Screenshot%20(491).png" alt="Contact form interaction" width="49%">
+  <img src="../assets/Screenshot%20(492).png" alt="Contact form submissions" width="49%">
 </p>
 
 ## Stack
 
-`HTML5` · `CSS3` · `JavaScript` · `Responsive Web Design` · `LocalStorage`
+<img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML5 CSS3 JavaScript" height="45">
+
+`Responsive Web Design` · `LocalStorage`
 
 ## Run it
 
