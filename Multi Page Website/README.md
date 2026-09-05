@@ -4,13 +4,13 @@
 
 ### Architecture & Interior Design
 
-A fictional multi-page studio website with a **restrained, image-led editorial direction**.
+A fictional multi-page studio website built around **quiet typography, architectural imagery and an image-led editorial layout**.
 
-<img src="assets/hero-image.png" alt="ATLAS Studio homepage preview" width="92%">
+<img src="../assets/Screenshot_4-9-2026_124739_.jpeg" alt="ATLAS Studio homepage" width="100%">
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML CSS JavaScript" height="42">
+**HTML · CSS · JavaScript**
 
 </div>
 
@@ -18,33 +18,27 @@ A fictional multi-page studio website with a **restrained, image-led editorial d
 
 ## ✦ The idea
 
-ATLAS explores how a quiet visual system can carry a full website. The layout uses generous whitespace, architectural imagery and simple typography to keep attention on the work.
+ATLAS explores how a restrained visual system can carry an entire website without relying on heavy UI elements.
 
-## Pages & sections
+The pages use generous whitespace, strong imagery and simple typography to keep the focus on the spaces and projects being presented.
 
-**Home** — studio introduction, services and selected work
+## Pages
 
-**About** — studio story, approach and visual language
-
-**Projects** — image-led presentation of residential and interior concepts
-
+**Home** — studio introduction, services and selected work  
+**About** — studio story, approach and visual language  
+**Projects** — image-led presentation of residential and interior concepts  
 **Contact** — project enquiry flow and studio details
 
 ## Selected visuals
 
 <p align="center">
-  <img src="assets/architecture.png" alt="ATLAS architecture visual" width="48%">
-  <img src="assets/interior-design.png" alt="ATLAS interior design visual" width="48%">
+  <img src="../assets/Screenshot_4-9-2026_124748_.jpeg" alt="ATLAS Studio about page" width="49%">
+  <img src="../assets/Screenshot_4-9-2026_124810_.jpeg" alt="ATLAS Studio contact page" width="49%">
 </p>
 
-<p align="center">
-  <img src="assets/our-story.png" alt="ATLAS studio story visual" width="48%">
-  <img src="assets/our-team.png" alt="ATLAS studio visual" width="48%">
-</p>
+## Visual direction
 
-## Built with
-
-<img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML5 CSS3 JavaScript" height="45">
+**minimal · editorial · image-led**
 
 ## Highlights
 
@@ -55,9 +49,13 @@ ATLAS explores how a quiet visual system can carry a full website. The layout us
 - Editorial typography and spacing
 - Contact / enquiry interface
 
+## Stack
+
+`HTML5` · `CSS3` · `JavaScript` · `Responsive Web Design`
+
 ## Run it
 
-Open `index.html` in a browser. No build step required.
+Open `index.html` in a browser. There is no build step or dependency setup required.
 
 > **Note:** ATLAS Studio is a fictional concept created for this project. The studio details and project content are illustrative.
 
@@ -65,6 +63,6 @@ Open `index.html` in a browser. No build step required.
 
 <div align="center">
 
-**[← Back to the project collection](../)**
+**[← Back to Frontend Projects](../)** · **[View source →](./)**
 
 </div>
