@@ -4,13 +4,13 @@
 
 ### Move Different.
 
-A fictional premium sneaker landing page built around **editorial visuals, bold typography and interactive UI**.
+A fictional premium sneaker landing page built around **bold typography, cinematic visuals and interactive UI**.
 
-<img src="assets/aether-hero.png" alt="AETHER hero preview" width="92%">
+<img src="../assets/Screenshot%20(484).png" alt="AETHER landing page — Move Different" width="100%">
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML CSS JavaScript" height="42">
+**HTML · CSS · JavaScript**
 
 </div>
 
@@ -18,42 +18,43 @@ A fictional premium sneaker landing page built around **editorial visuals, bold 
 
 ## ✦ The idea
 
-AETHER was built as a visual-first landing page rather than a conventional product grid. The goal was to experiment with **contrast, typography, product presentation and motion** while keeping the experience responsive.
+AETHER started as an experiment in building a product page that feels more like a campaign than a catalogue.
 
-## What is inside
+The direction is intentionally dark and editorial, with oversized type, warm accents, product-focused imagery and small interaction details throughout the page.
 
-- Responsive navigation and dropdown interactions
-- Product showcase for multiple sneaker silhouettes
+## What I built
+
+- Responsive navigation with dropdown interactions
+- Hero section with layered product presentation
+- Product showcase sections
 - Editorial campaign section
 - CTA and launch interactions
+- Hover and reveal effects
 - Responsive layouts across screen sizes
-- Subtle reveal / hover effects
 
 ## Visual direction
 
-Dark surfaces · warm accent tones · oversized type · cinematic product imagery
+**dark · editorial · street-luxury**
 
 <p align="center">
-  <img src="assets/aether-void.png" alt="AETHER product visual" width="48%">
-  <img src="assets/campaign-editorial.png" alt="AETHER campaign visual" width="48%">
+  <img src="../assets/Screenshot%20(486).png" alt="AETHER product showcase" width="49%">
+  <img src="../assets/Screenshot%20(487).png" alt="AETHER campaign section" width="49%">
 </p>
 
-## Built with
+## Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML5 CSS3 JavaScript" height="45">
-</p>
+`HTML5` · `CSS3` · `JavaScript` · `Responsive Web Design`
 
 ## Run it
 
-Open `index.html` in a browser. No build step required.
+Open `index.html` in a browser. There is no build step or dependency setup required.
 
-> **Note:** AETHER is a fictional brand/concept created for this project.
+> **Note:** AETHER is a fictional brand concept created for this project.
 
 ---
 
 <div align="center">
 
-**[← Back to the project collection](../)**
+**[← Back to Frontend Projects](../)** · **[View source →](./)**
 
 </div>
