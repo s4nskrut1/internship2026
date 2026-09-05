@@ -25,7 +25,7 @@ A fictional premium sneaker concept with a dark, editorial direction — built a
 > **Design direction:** dark · editorial · street-luxury
 
 <p align="center">
-  <img src="assets/Screenshot%20(488).png" alt="AETHER landing page — Move Different" width="100%">
+  <img src="assets/Screenshot%20(484)(3).png" alt="AETHER landing page — Move Different" width="100%">
 </p>
 
 <p align="center">
