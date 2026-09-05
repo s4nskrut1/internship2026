@@ -25,11 +25,15 @@ A fictional premium sneaker concept with a dark, editorial direction — built a
 > **Design direction:** dark · editorial · street-luxury
 
 <p align="center">
-  <img src="README-assets/aether-home.webp" alt="AETHER landing page — hero section" width="100%">
+  <img src="assets/Screenshot%20(488).png" alt="AETHER landing page — Move Different" width="100%">
 </p>
 
 <p align="center">
-  <img src="README-assets/aether-products.webp" alt="AETHER product showcase" width="100%">
+  <img src="assets/Screenshot%20(486).png" alt="AETHER product showcase" width="100%">
+</p>
+
+<p align="center">
+  <img src="assets/Screenshot%20(487).png" alt="AETHER editorial campaign section" width="100%">
 </p>
 
 **→ Built with:** HTML · CSS · JavaScript
@@ -44,32 +48,26 @@ Responsive navigation, dropdown interactions, product sections, campaign content
 
 ### Architecture & Interior Design — Multi-page Website
 
-A fictional architecture and interiors studio presented through a quiet, image-led visual system. Instead of one giant full-page screenshot, the showcase is split into individual pages so the design actually gets room to breathe.
+A fictional architecture and interiors studio presented through a quiet, image-led visual system. The showcase below uses the actual pages from the project rather than generic mockups.
 
 > **Design direction:** minimal · editorial · image-led
 
 ### Home
 
 <p align="center">
-  <img src="README-assets/atlas-home.webp" alt="ATLAS Studio home page" width="58%">
+  <img src="assets/Screenshot_4-9-2026_124739_.jpeg" alt="ATLAS Studio home page" width="72%">
 </p>
 
 ### About
 
 <p align="center">
-  <img src="README-assets/atlas-about.webp" alt="ATLAS Studio about page" width="58%">
+  <img src="assets/Screenshot_4-9-2026_124748_.jpeg" alt="ATLAS Studio about page" width="72%">
 </p>
 
 ### Contact
 
 <p align="center">
-  <img src="README-assets/atlas-contact.webp" alt="ATLAS Studio contact page" width="100%">
-</p>
-
-### Submissions
-
-<p align="center">
-  <img src="README-assets/atlas-submissions.webp" alt="ATLAS Studio submissions page" width="100%">
+  <img src="assets/Screenshot_4-9-2026_124810_.jpeg" alt="ATLAS Studio contact page" width="100%">
 </p>
 
 **→ Built with:** HTML · CSS · JavaScript
@@ -82,15 +80,21 @@ Multi-page navigation, project presentation, services, responsive layouts, forms
 
 ## Contact Form
 
-A responsive site focused on form interfaces and client-side interaction.
+A responsive site focused on form interfaces, validation, and client-side interaction.
 
 <p align="center">
-  <img src="README-assets/contact.webp" alt="Contact form project preview" width="100%">
+  <img src="assets/Screenshot%20(489).png" alt="Contact form validation state" width="100%">
+</p>
+
+The project also includes a submissions view for managing saved enquiries locally.
+
+<p align="center">
+  <img src="assets/Screenshot%20(492).png" alt="Contact form submissions view" width="100%">
 </p>
 
 **→ Built with:** HTML · CSS · JavaScript
 
-Form UI, validation, responsive styling, and supporting pages.
+Form UI, validation states, responsive styling, localStorage-based submissions, and supporting pages.
 
 [View Contact Form →](./Contact%20Form/)
 
